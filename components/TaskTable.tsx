@@ -170,7 +170,7 @@ export default function TaskTable() {
               ) : (
                 <tr>
                   <td colSpan={6} className="py-8 text-center text-gray-500">
-                    No tasks found. Add a new task or adjust your filters.
+                    No tasks found.
                   </td>
                 </tr>
               )}
